@@ -1,5 +1,10 @@
+<script setup lang="ts">
+import HomeLayout from '../layout/HomeLayout.vue';
+
+</script>
+
 <template>
-    <div>
-        <h1>Home Page</h1>
-    </div>
+    <HomeLayout>
+        <section class="container mt-5">Pagina casi terminada</section>
+    </HomeLayout>
 </template>
