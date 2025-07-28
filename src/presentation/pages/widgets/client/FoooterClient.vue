@@ -1,0 +1,7 @@
+<template>
+    <div class="footer">
+        <ul>
+            <li>Footer</li>
+        </ul>
+    </div>
+</template>
